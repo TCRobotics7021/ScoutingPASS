@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "Scouting PASS 2023",
-  "page_title": "Charged Up",
+  "page_title": "Charged Upz",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter Initials",
